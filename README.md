@@ -1,4 +1,19 @@
-YouTube Tutorial on how I built this portfolio => https://youtu.be/ESHaail1eGc
+Creating Portfolio Website with React.js and SCSS. 
+I hosted via firebase. You can look from here <a href="https://muhammettnur.net/" > MyPortfolioLink </a>
+
+<h2> Desktop View </h2>
+
+![Ekran Görüntüsü (86)](https://user-images.githubusercontent.com/95496883/212313702-186d2115-4836-41e3-a6df-39af2bbbb8a3.png) <br>
+![Ekran Görüntüsü (85)](https://user-images.githubusercontent.com/95496883/212313642-6b8a44fc-112c-49a6-a38d-9cc011c21adc.png) <br>
+![Ekran Görüntüsü (87)](https://user-images.githubusercontent.com/95496883/212313734-1d9eb2c2-3c29-4237-a2b0-8e2e47d8f873.png) <br>
+![Ekran Görüntüsü (88)](https://user-images.githubusercontent.com/95496883/212313745-b1866927-5c9a-42a1-91ed-92787f673411.png) <br>
+
+<h2> Mobile View </h2>
+
+![1](https://user-images.githubusercontent.com/95496883/212313914-a2bf62c6-c372-49fd-8adf-db2d6c8e5c6b.jpeg) <br>
+![2](https://user-images.githubusercontent.com/95496883/212313935-c0b791a7-c5e6-4784-85b9-c60c58ba1e85.jpeg) <br>
+![3](https://user-images.githubusercontent.com/95496883/212313956-c34c83c4-a70b-4526-88c1-6637c0156c5f.jpeg) <br>
+![4](https://user-images.githubusercontent.com/95496883/212313964-eb51e353-9768-4b97-810c-f16af54689c0.jpeg) <br>
 
 # Getting Started with Create React App
 
@@ -70,3 +85,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#
